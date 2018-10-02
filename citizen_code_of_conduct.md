@@ -2,11 +2,11 @@
 
 ## 1. Purpose
 
-A primary goal of <style="strong">Socializing Open Access in the Humanities</style> is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of <strong>Socializing Open Access in the Humanities</strong> is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. As practitioners of a profession that is nearly 90% white and 83% female in the United States, we are aware of the ways in which our privilege is reflected in our work and our project leadership. In order to make this as safe a space as possible for POC, womxn, trans folx, and others, this project has a no tolerance policy for harrassment of any kind.
 
-We invite all those who participate in <style="strong">Socializing Open Access in the Humanities</style> to help us create safe and positive experiences for everyone.
+We invite all those who participate in <strong>Socializing Open Access in the Humanities</strong> to help us create safe and positive experiences for everyone.
 
 ## 2. Open Culture Citizenship
 
